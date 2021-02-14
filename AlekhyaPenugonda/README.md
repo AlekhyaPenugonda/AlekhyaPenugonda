@@ -6,4 +6,3 @@
 - 🌱 I’m currently learning DataStructures and Algorithms
 - 🏢 I’m looking for Internship in reputed MNC
 - 🥅 2021 Goals: Contribute more to Open Source projects
-
