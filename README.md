@@ -4,5 +4,5 @@
 ## I'm a Student👩‍💻
 - 📖 I am currently pursuing 3rd year B Tech in Computer Science 💻 from VR Siddhartha Engineering College
 - 🌱 I’m currently learning DataStructures and Algorithms
-- 🏢 I’m looking for Internship
+- 🏢 Currently I’m looking for an Internship
 - 🥅 2021 Goals: Contribute more to Open Source projects
